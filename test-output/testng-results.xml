@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-29T21:34:44 IST" name="Default suite" finished-at="2021-12-29T21:35:45 IST" duration-ms="61251">
+    <groups>
+    </groups>
+    <test started-at="2021-12-29T21:34:44 IST" name="Default test" finished-at="2021-12-29T21:35:45 IST" duration-ms="61251">
+      <class name="package_github_integration.class_github_integrationTest">
+        <test-method signature="SeleniumTestTest()[pri:0, instance:package_github_integration.class_github_integrationTest@7bd4937b]" started-at="2021-12-29T21:34:44 IST" name="SeleniumTestTest" finished-at="2021-12-29T21:35:45 IST" duration-ms="61136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTestTest -->
+      </class> <!-- package_github_integration.class_github_integrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

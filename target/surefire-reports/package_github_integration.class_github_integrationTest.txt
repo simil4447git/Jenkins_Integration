@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: package_github_integration.class_github_integrationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.492 sec
